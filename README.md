@@ -1,3 +1,7 @@
-# hubot-docker-deploy
+Hubot Docker Deploy Script
+=============================
+Hubot script that deploys the `<container>`.
 
-A Hubot plugin for deploying Docker containers.
+Usage
+-----
+`hubot http deploy <container>`
